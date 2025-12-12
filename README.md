@@ -3,6 +3,8 @@
 Shows you the contents of a Save files Shiny Block
 
 Click on the Pokemon's sprite to have its location shown on the map.
+
+To use: Add the .dll to your `plugins` folder next to PKHeX
 # OPTIONAL FEATURES:
 Click connect to read the block Live. 
 
